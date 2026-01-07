@@ -1,0 +1,119 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Cade o Log</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Cade o Log</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt-br</language>
+        <copyright>All Rights Reserved</copyright>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title></title>
+            <link>http://localhost:1313/posts/cv/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/cv/</guid>
+            <description>Felipe Silveira Analista de Segurança da Informação | Blue Team | SOC | CSIRT | Threat Hunting | 📧 Email | 🖥 LinkedIn | 🧑🏻‍💻 Github | | 👽 TryHackMe | 👾 Hacking Club |
+👤 Sobre Mim Sou um profissional movido por desafios e apaixonado por cibersegurança, com sólida experiência em Resposta a Incidentes e Análise Forense. Ao longo da minha trajetória, atuei em ambientes críticos utilizando tecnologias líderes de mercado, contribuindo diretamente para a detecção e mitigação de ameaças.</description>
+            <content type="html"><![CDATA[<h1 id="felipe-silveira">Felipe Silveira</h1>
+<h3 id="analista-de-segurança-da-informação--blue-team--soc--csirt--threat-hunting"><strong>Analista de Segurança da Informação | Blue Team | SOC | CSIRT | Threat Hunting</strong></h3>
+<p>| <a href="mailto:felipe.psilveira@outlook.com">📧 Email</a> | <a href="https://www.linkedin.com/in/felipe-silveira/">🖥 LinkedIn</a> | <a href="https://github.com/felipe8398">🧑🏻‍💻 Github</a> |
+| <a href="https://tryhackme.com/p/felipe8398">👽 TryHackMe</a> | <a href="https://app.hackingclub.com/profile/user/8322">👾 Hacking Club</a> |</p>
+<hr>
+<h2 id="-sobre-mim">👤 Sobre Mim</h2>
+<p>Sou um profissional movido por desafios e apaixonado por cibersegurança, com sólida experiência em Resposta a Incidentes e Análise Forense. Ao longo da minha trajetória, atuei em ambientes críticos utilizando tecnologias líderes de mercado, contribuindo diretamente para a detecção e mitigação de ameaças.</p>
+<p>Tenho forte interesse por Segurança Ofensiva, e venho expandindo meu conhecimento no contexto de Purple Team e Threat Hunting, buscando unir o melhor do Red e do Blue Team em prol da defesa proativa.</p>
+<p>Meu objetivo é atuar como Analista de Segurança da Informação Sênior, com foco em Resposta a Incidentes, ou integrar um Purple Team / Threat Hunting Team em posição Sênior, onde eu possa aplicar minha expertise técnica..</p>
+<hr>
+<h2 id="-experiência">💼 Experiência</h2>
+<p><strong>Analista de Segurança SR</strong><br>
+<em>Vivo (Telefônica Brasil)</em><br>
+📅 08/2023 - Presente</p>
+<ul>
+<li>Condução de investigações completas de incidentes de segurança e atividades
+maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR.</li>
+<li>Desenvolvimento de estratégias de hardening e resposta para ambientes críticos.</li>
+<li>Realização de Threat Hunting proativo, com elaboração de hipóteses e análises
+comportamentais.</li>
+<li>Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a
+incidentes.</li>
+</ul>
+<hr>
+<p><strong>Analista de Segurança PL</strong><br>
+<em>Vivo (Telefônica Brasil)</em><br>
+📅 02/2022 - 07/2023</p>
+<ul>
+<li>Condução de investigações completas de incidentes de segurança e atividades
+maliciosas complexas, utilizando de ferramentas do tipo EDR, XDR, SIEM, NDR..</li>
+<li>Realização de Threat Hunting proativo, com elaboração de hipóteses e análises
+comportamentais.</li>
+<li>Colaboração com outras áreas para melhoria contínua dos playbooks de resposta a
+incidentes.</li>
+</ul>
+<hr>
+<p><strong>Analista de Segurança PL</strong><br>
+<em>Locaweb</em><br>
+📅 07/2021 - 01/2022</p>
+<ul>
+<li>Tratar incidentes de segurança atuando em todas as etapas do ciclo</li>
+<li>Executar procedimentos de segurança</li>
+<li>Auxiliar na documentação de processos</li>
+<li>Identificar vulnerabilidades conhecidas</li>
+<li>Análise preliminar de artefato</li>
+<li>Análise preliminar de perímetro</li>
+<li>Identificar prioridade e severidade de incidentes</li>
+<li>Notificar clientes internos e externos</li>
+<li>Análise de tráfego e mitigação</li>
+<li>Execução de projetos de segurança da informação</li>
+<li>Tratamento de prioridades internas/externas</li>
+<li>Tratamento de incidentes não resolvidos no primeiro nível</li>
+</ul>
+<hr>
+<p><strong>Analista de Segurança JR</strong><br>
+<em>Locaweb</em><br>
+📅 07/2019 - 06/2021</p>
+<ul>
+<li>Tratar incidentes de segurança atuando em todas as etapas do ciclo</li>
+<li>Executar procedimentos de segurança</li>
+<li>Auxiliar na documentação de processos</li>
+<li>Identificar vulnerabilidades conhecidas</li>
+<li>Análise preliminar de artefato</li>
+<li>Análise preliminar de perímetro</li>
+<li>Identificar prioridade e severidade de incidentes</li>
+<li>Notificar clientes internos e externos</li>
+<li>Análise de tráfego e mitigação</li>
+</ul>
+<hr>
+<h2 id="-formação">🎓 Formação</h2>
+<ul>
+<li><strong>Pós-Graduação</strong>: Computação Forense e Perícia Digital – IPOG <em>(2020 - 2021)</em></li>
+<li><strong>Graduação</strong>: Tecnologia em Redes de Computadores – Senac <em>(2015 - 2017)</em></li>
+</ul>
+<hr>
+<h2 id="-certificações">📜 Certificações</h2>
+<ul>
+<li>Junior Penetration Tester (PT1)</li>
+<li>Certified Red Team Professional (CRTP)</li>
+<li>CompTIA CySA+</li>
+<li>CompTIA PenTest+</li>
+<li>eJPT</li>
+<li>INE Certified Cloud Associate</li>
+<li>Guardicore Certified Segmentation Administrator</li>
+<li>Guardicore Certified Segmentation Engineer</li>
+<li>AWS Certified Solutions Architect – Associate</li>
+<li>AWS Certified Cloud Practitioner</li>
+<li>EC-Council ECIH</li>
+<li>GitLab Certified Associate</li>
+<li>EXIN Information Security Foundation based on ISO IEC 27001</li>
+<li>EXIN Cloud Computing Foundation Certificate</li>
+<li>Microsoft SC-900</li>
+<li>Microsoft AZ-900</li>
+<li>COBIT 5 Foundation</li>
+<li>ITIL 3 Foundation Certificate in IT Service Management</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
