@@ -5,7 +5,7 @@ title = 'Cadê o Log ?'
 copyright = "All Rights Reserved"
 IsMultiLingual = false
 defaultContentLanguage = 'pt-br'
-
+publishDir = "docs"
 [params]
   defaultTheme = "dark"
   EnableThemeToggle = true
