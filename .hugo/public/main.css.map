@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/felipe/Blog/.hugo",
+	"sourceRoot": "/home/felipe/felipesilveira/.hugo",
 	"sources": [
 		"themes/hugo-theme-hello-4s3ti/assets/scss/main.scss",
 		"themes/hugo-theme-hello-4s3ti/assets/scss/_normalize.scss",
