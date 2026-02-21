@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://felipesilveira.com.br/</loc><lastmod>2026-02-20T22:48:56-03:00</lastmod></url><url><loc>https://felipesilveira.com.br/blue/meu-primeiro-post-blue/</loc><lastmod>2026-02-20T22:29:03-03:00</lastmod></url><url><loc>https://felipesilveira.com.br/blue/</loc><lastmod>2026-02-20T22:28:31-03:00</lastmod></url><url><loc>https://felipesilveira.com.br/cv/</loc></url><url><loc>https://felipesilveira.com.br/sobre/</loc></url><url><loc>https://felipesilveira.com.br/blog/</loc></url><url><loc>https://felipesilveira.com.br/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://felipesilveira.com.br/</loc>
+    <lastmod>2026-02-20T22:48:56-03:00</lastmod>
+  </url><url>
+    <loc>https://felipesilveira.com.br/blue/meu-primeiro-post-blue/</loc>
+    <lastmod>2026-02-20T22:29:03-03:00</lastmod>
+  </url><url>
+    <loc>https://felipesilveira.com.br/blue/</loc>
+    <lastmod>2026-02-20T22:28:31-03:00</lastmod>
+  </url><url>
+    <loc>https://felipesilveira.com.br/cv/</loc>
+  </url><url>
+    <loc>https://felipesilveira.com.br/sobre/</loc>
+  </url><url>
+    <loc>https://felipesilveira.com.br/blog/</loc>
+  </url><url>
+    <loc>https://felipesilveira.com.br/tags/</loc>
+  </url>
+</urlset>

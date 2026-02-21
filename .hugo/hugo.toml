@@ -6,6 +6,7 @@ copyright = "All Rights Reserved"
 IsMultiLingual = false
 defaultContentLanguage = 'pt-br'
 publishDir = "docs"
+buildFuture = true
 [params]
   defaultTheme = "dark"
   EnableThemeToggle = true
